@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+---
+layout: default
+nav_order: 1
+---
+# Introduction
+Every year we report on the performance of endowment funds and their impact to the university. To ensure their accuracy we strive to ensure data accuracy and integrity. This year, we are taking additional cleanup steps to ensure this becomes an easier and quicker process in years to come.
 
-You can use the [editor on GitHub](https://github.com/ucdavis/endowmentreport/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This site will guide you through all aspects of the endowment preliminary listing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Airtable-based preliminary listing process introduced last year remains in place. However, we have taken steps to shorten the workflow to request changes.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Quick Start Guide
+### Returning User
+1. Open the [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"} and select the view most relevant to you
+2. When prompted, log in to your Airtable account (created last year) **using your UC Davis email.** You should now be able to access all views.
+3. If you forgot your password, you can [reset it here](https://airtable.com/forgot){:target="\_blank"}
+4. Review the data that falls under your purview, and request changes only where needed.
 
-```markdown
-Syntax highlighted code block
+### New User
+1. Watch the [tutorial video](https://ucdavis.github.io/endowment//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
+2. Open the [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"} and select the view most relevant to you
+3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
+4. Review the data that falls under your purview, and request changes only where needed.
 
-# Header 1
-## Header 2
-### Header 3
+For more detailed information, please use the sidebar on the left to navigate through the site. If you are on mobile, scroll up and tap menu. Should you have any questions, please reach out to [Sergio Losada](mailto:slosada@ucdavis.edu)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 2021 Updates
+### Email Address Collection
+Given the transition to digital reports, stewardees will receive access instructions via email. As such we are placing a special focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one in file. 
 
-**Bold** and _Italic_ and `Code` text
+We obtained many new email addresses during this process last year, however we still do not have emails in file for hundreds of recipients.
 
-[Link](url) and ![Image](src)
-```
+Given that the majority of donors are receiving digital reports, we are not including mailing addresses in the preliminary listing. If a record you are reviewing has no email addresses in file, please ensure that their mailing address in Advance is correct as that is where their printed report will be sent.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<!---
+### Endowment Cleanup
+Last year through the Endowment Cleanup process we added stewardees for over 60 UCD Foundation funds. This year we are continuing the endowment cleanup process but with a focus on Regents endowment funds. Just as last year, you will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"}
+-->
 
-### Jekyll Themes
+### Deceased Stewardees
+As you review the preliminary listing you might come across deceased stewardees (approximately 20). Over the next few weeks we will work to update stewardship to a living spouse or the donor's descendants. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowment//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ucdavis/endowmentreport/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Sergio Losada](mailto:slosada@ucdavis.edu).
