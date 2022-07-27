@@ -8,7 +8,7 @@ permalink: /docs/faq
 {: .no_toc }
 If you are confused about something, chances are you're not the only one. Answers to questions from users will be added to this page and serve as a resource to everyone else.
 
-Please email [Sergio Losada](mailto:slosada@ucdavis.edu) with any questions you might have.
+Please email [Daniella Hanson](mailto:dahanson@ucdavis.edu) with any questions you might have.
 
 ## Table of Contents
 {: .no_toc .text-delta }
