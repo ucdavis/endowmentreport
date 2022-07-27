@@ -16,7 +16,7 @@ The Airtable-based preliminary listing process introduced last year remains in p
 This year, we are implementing a few changes to the preliminary listing process:
 
 ## Airtable
-Instead of using Excel spreadsheets, we will use [Airtable](https://airtable.com) to provide you the relevant data for your review. Airtable is a lightweight web application. Rather than keeping track of a spreadsheet, it will be available tIt is more intuitive and easier to use. And we will guide you through everything you need to know.
+Instead of using Excel spreadsheets, we will use [Airtable](https://airtable.com) to provide you the relevant data for your review. Airtable is a lightweight web application. Rather than keeping track of a spreadsheet, Airtable is more intuitive and easier to use. And we will guide you through everything you need to know.
 
 To learn more about Airtable, please click [here](/docs/airtable)
 
@@ -25,4 +25,4 @@ There are XXXX endowment funds without stewardees. This year we are beginning a 
 ---- 
 Over the next week or two we will offer office hours to help out with any questions you might have. Please stay tuned for more info!
 
-Please use the sidebar on the left to navigate through the site. Should you have any questions, please reach out to [Sergio Losada](mailto:slosada@ucdavis.edu)
+Please use the sidebar on the left to navigate through the site. Should you have any questions, please reach out to [Daniella Hanson](mailto:dahanson@ucdavis.edu)
