@@ -26,7 +26,7 @@ The Airtable-based preliminary listing process introduced last year remains in p
 3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
 4. Review the data that falls under your purview, and request changes only where needed.
 
-For more detailed information, please use the sidebar on the left to navigate through the site. If you are on mobile, scroll up and tap menu. Should you have any questions, please reach out to [Sergio Losada](mailto:slosada@ucdavis.edu)
+For more detailed information, please use the sidebar on the left to navigate through the site. If you are on mobile, scroll up and tap menu. Should you have any questions, please reach out to [Daniella Hanson](mailto:dahanson@ucdavis.edu)
 
 ---
 
