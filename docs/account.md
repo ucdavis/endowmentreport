@@ -1,4 +1,4 @@
-  ---
+---
 layout: default
 title: Create an Account
 parent: Airtable Instructions
