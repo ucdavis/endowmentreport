@@ -1,13 +1,15 @@
 ---
 layout: default
 nav_order: 1
+title: [2022 Endowment Report]
+description: [What you need to know about Preliminary Listing]
 ---
 # Introduction
 Every year we report on the performance of endowment funds and their impact to the university. To ensure their accuracy we strive to ensure data accuracy and integrity. This year, we are taking additional cleanup steps to ensure this becomes an easier and quicker process in years to come.
 
 This site will guide you through all aspects of the endowment preliminary listing. 
 
-The Airtable-based preliminary listing process introduced last year remains in place. However, we have taken steps to shorten the workflow to request changes.
+The Airtable-based preliminary listing process introduced last year remains in place. 
 
 ---
 
@@ -28,7 +30,7 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2021 Updates
+## 2022 Updates
 ### Email Address Collection
 Given the transition to digital reports, stewardees will receive access instructions via email. As such we are placing a special focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one in file. 
 
@@ -46,4 +48,4 @@ As you review the preliminary listing you might come across deceased stewardees 
 
 ---
 
-We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Sergio Losada](mailto:slosada@ucdavis.edu).
+We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
