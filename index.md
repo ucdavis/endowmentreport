@@ -7,7 +7,7 @@ Every year we report on the performance of endowment funds and their impact to t
 
 This site will guide you through all aspects of the endowment preliminary listing. 
 
-The Airtable-based preliminary listing process introduced last year remains in place. However, we have taken steps to shorten the workflow to request changes.
+The Airtable-based preliminary listing process remains in place. However, we have taken steps to shorten the workflow to request changes.
 
 ---
 
@@ -28,7 +28,7 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2021 Updates
+## 2022 Updates
 ### Email Address Collection
 Given the transition to digital reports, stewardees will receive access instructions via email. As such we are placing a special focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one in file. 
 
@@ -38,7 +38,7 @@ Given that the majority of donors are receiving digital reports, we are not incl
 
 <!---
 ### Endowment Cleanup
-Last year through the Endowment Cleanup process we added stewardees for over 60 UCD Foundation funds. This year we are continuing the endowment cleanup process but with a focus on Regents endowment funds. Just as last year, you will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"}
+We are continuing the endowment cleanup process. Just as last year, you will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"}
 -->
 
 ### Deceased Stewardees
