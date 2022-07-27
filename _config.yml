@@ -1,7 +1,5 @@
 theme: jekyll-theme-slate
 
-theme: jekyll-theme-slate
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -17,9 +15,9 @@ theme: jekyll-theme-slate
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Endowment Report"
+title: "2022 Endowment Report"
 email: dahanson@ucdavis.edu
-description:
+description: What you need to know about Preliminary Listing
 baseurl: "/endowmentreport" # the subpath of your site, e.g. /blog
 url: "https://ucdavis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dahansonrss
