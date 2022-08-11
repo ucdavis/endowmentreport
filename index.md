@@ -45,5 +45,4 @@ We are continuing the endowment cleanup process. Just as last year, you will fin
 As you review the preliminary listing you might come across deceased stewardees (approximately 20). Over the next few weeks we will work to update stewardship to a living spouse or the donor's descendants. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
 
 ---
-
 We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
