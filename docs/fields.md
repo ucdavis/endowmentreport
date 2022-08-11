@@ -19,7 +19,7 @@ This field contains the endowment fund’s complete name. This is the name that 
 ### Salutation & Spouse Salutation
 Salutations appear in the opening letter of the report. By default we utilize the donor’s nickname. Where a nickname wasn’t available, the donor’s first name is being utilized. For organizations, we utilize _friends_ as the salutation.
 
-By default the female name will appear first, followed by the male. If you would like to change the order, or request a spouse NOT be stewarded, please [request a change](https://ucdavis.github.io/endowment//docs/change){:target="_blank"}
+By default the female name will appear first, followed by the male. If you would like to change the order, or request a spouse NOT be stewarded, please [request a change](https://ucdavis.github.io/endowmentreport//docs/change){:target="_blank"}
 ```
 Dear Sally & Phil,
 Dear Friends,
