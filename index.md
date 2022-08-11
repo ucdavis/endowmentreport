@@ -13,13 +13,13 @@ The Airtable-based preliminary listing process remains in place. However, we hav
 
 ## Quick Start Guide
 ### Returning User
-1. Open the [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"} and select the view most relevant to you
+1. Open the [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"} and select the view most relevant to you
 2. When prompted, log in to your Airtable account (created last year) **using your UC Davis email.** You should now be able to access all views.
 3. If you forgot your password, you can [reset it here](https://airtable.com/forgot){:target="\_blank"}
 4. Review the data that falls under your purview, and request changes only where needed.
 
 ### New User
-1. Watch the [tutorial video](https://ucdavis.github.io/endowment//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
+1. Watch the [tutorial video](https://ucdavis.github.io/endowmentreport//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
 2. Open the [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"} and select the view most relevant to you
 3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
 4. Review the data that falls under your purview, and request changes only where needed.
