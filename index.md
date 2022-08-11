@@ -20,7 +20,7 @@ The Airtable-based preliminary listing process remains in place. However, we hav
 
 ### New User
 1. Watch the [tutorial video](https://ucdavis.github.io/endowment//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
-2. Open the [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"} and select the view most relevant to you
+2. Open the [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"} and select the view most relevant to you
 3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
 4. Review the data that falls under your purview, and request changes only where needed.
 
@@ -38,11 +38,11 @@ Given that the majority of donors are receiving digital reports, we are not incl
 
 <!---
 ### Endowment Cleanup
-We are continuing the endowment cleanup process. Just as last year, you will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrRECvYOoGH81mQY){:target="\_blank"}
+We are continuing the endowment cleanup process. Just as last year, you will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"}
 -->
 
 ### Deceased Stewardees
-As you review the preliminary listing you might come across deceased stewardees (approximately 20). Over the next few weeks we will work to update stewardship to a living spouse or the donor's descendants. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowment//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
+As you review the preliminary listing you might come across deceased stewardees (approximately 20). Over the next few weeks we will work to update stewardship to a living spouse or the donor's descendants. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
 
 ---
 
