@@ -21,7 +21,7 @@ Instead of using Excel spreadsheets, we will use [Airtable](https://airtable.com
 To learn more about Airtable, please click [here](/docs/airtable)
 
 ## Endowment Cleanup
-There are XXXX endowment funds without stewardees. This year we are beginning a multi-year effort to clean up the stewardship of a lot of these funds. Given the amount of funds, and the amount of data to review for funds with active stewardees, this year we will begin only with UC Davis Foundation funds. 
+There are 393 endowment funds without stewardees. This year we are beginning a multi-year effort to clean up the stewardship of a lot of these funds. Given the amount of funds, and the amount of data to review for funds with active stewardees, this year we will begin only with UC Davis Foundation funds. 
 ---- 
 Over the next week or two we will offer office hours to help out with any questions you might have. Please stay tuned for more info!
 
