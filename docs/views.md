@@ -15,7 +15,7 @@ So far we have created views for every school & unit. For schools with much high
 We believe these will cover most of your needs. However, if you need a more customized view, Airtable provides tools within the view to filter, group, and sort the data.
 
 > Note: You DO NOT have to use the tools described below. But you can use them if you wish. Changes you make here WILL NOT affect anyone else. 
-> If you would like a customized view, simply **_[reach out](mailto:dahanson@ucdavis.edu)_** to us or fill out **_[this form](https://airtable.com/shrnCCfY3TiYH2kPS){:target="_blank"}_** and we would be happy to create it for you.
+> If you would like a customized view, simply **_[reach out](mailto:dahanson@ucdavis.edu)_** to us and we would be happy to create it for you.
 
 ## Airtable Toolbar
 When you enter any of the Airtable views provided to you, you will see a toolbar with options to filter, group, and sort the data. 
