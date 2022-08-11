@@ -12,7 +12,7 @@ This site will guide you through all aspects of the endowment preliminary listin
 The Airtable-based preliminary listing process introduced last year remains in place. However we have taken steps to shorten the workflow to request changes.
 
 
-## Summary of Changes for 2020
+## Summary of Changes for 2022
 This year, we are implementing a few changes to the preliminary listing process:
 
 ## Airtable
