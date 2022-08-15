@@ -30,16 +30,6 @@ This is the email address that we have on file for the stewardee. Please ensure 
 
 If we do not have an email on file for a stewardee, please help us obtain as many as possible.
 
-### Cover
-This field determines the images and the order of stories in the digital report. It carries over from the brochure covers used in previous years. The following styles will be used: 
-- Campus
-- Vet Med
-- Health
-- College of Agriculture
-- Letters & Science
-
-A donor receives only one digital site regardless of how many financial reports they receive. The current style was determined based on their endowment giving history. Style selection is **per donor** not per report. 
-
 ### Primary Stewardee & Spouse Name
 **These fields will not appear on the digital report but will only be used for the few stewardees who receive a printed copy.**
 
