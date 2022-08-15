@@ -13,7 +13,7 @@ The Airtable-based preliminary listing process introduced last year remains in p
 
 
 ## Summary of Changes for 2022
-This year, we are implementing a few changes to the preliminary listing process:
+There aren't many changes from last year, except that we have added unstewarded funds to the Preliminary Listing Airtable data. Please make an effort to find a stewardee for those funds when applicable.
 
 ## Airtable
 Instead of using Excel spreadsheets, we will use [Airtable](https://airtable.com) to provide you the relevant data for your review. Airtable is a lightweight web application. Rather than keeping track of a spreadsheet, Airtable is more intuitive and easier to use. And we will guide you through everything you need to know.
@@ -21,8 +21,7 @@ Instead of using Excel spreadsheets, we will use [Airtable](https://airtable.com
 To learn more about Airtable, please click [here](/docs/airtable)
 
 ## Endowment Cleanup
-There are 393 endowment funds without stewardees. This year we are beginning a multi-year effort to clean up the stewardship of a lot of these funds. Given the amount of funds, and the amount of data to review for funds with active stewardees, this year we will begin only with UC Davis Foundation funds. 
+There are 393 endowment funds without stewardees. We are working on a multi-year effort to clean up the stewardship of a lot of these funds. Those are indicated by "UNSTD" in the AIS ID column in Airtable. If you know of any entity that should receive a report for that fund, please do let us know by filling out the "Request a Change " form.
 ---- 
-Over the next week or two we will offer office hours to help out with any questions you might have. Please stay tuned for more info!
 
 Please use the sidebar on the left to navigate through the site. Should you have any questions, please reach out to [Daniella Hanson](mailto:dahanson@ucdavis.edu)
