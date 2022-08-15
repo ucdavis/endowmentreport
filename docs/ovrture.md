@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /docs/ovrture
 ---
 # Ovrture
-This year we are transitioning to Ovrture, a digital platform to develop and distribute digital endowment reports for our donors. Digital reports will create a more interactive experience for stewardees and it will allow us to add greater personalization at scale.
+This year we are using Ovrture, a digital platform to develop and distribute digital endowment reports for our donors. Digital reports will create a more interactive experience for stewardees and it will allow us to add greater personalization at scale.
 
 ## Planned Features
 These are some of the features and capabilities that Ovrture reports will have this year. Please keep in mind that some of these are subject to change.
