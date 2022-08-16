@@ -16,6 +16,8 @@ The process for endowment clean up works the same way as with preliminary listin
 
 Links to these views can be found in the Airtable [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="_blank"}
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrVc51peJvbuc9WM?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Fields
 As this is a much simpler process, there are fewer fields to consider.
 - Allocation Number
