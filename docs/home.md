@@ -12,7 +12,7 @@ This site will guide you through all aspects of the endowment preliminary listin
 The Airtable-based preliminary listing process introduced last year remains in place. However we have taken steps to shorten the workflow to request changes.
 
 
-## Summary of Changes for 2022
+## Summary of Changes for 2023
 There aren't many changes from last year, except that we have added unstewarded funds to the Preliminary Listing Airtable data. Please make an effort to find a stewardee for those funds when applicable.
 
 ## Airtable
