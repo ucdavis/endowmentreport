@@ -26,4 +26,4 @@ If the donor is receiving reports for multiple funds, and you are requesting a c
 Example: Donor who receives 8 funds recently moved. You only need to update the address for ONE of the funds the donor receives, not all 8. We will consolidate all the information and make sure all changes are made adequately.
 
 ### If a donor has funds with Regents & Foundation, will they receive a consolidated report?
-Donors will receive access to their personalized Ovrture site. Within each site, they will have access to financial reports for each allocation they are the stewardee for. The financial report will identify whether it's a Regents or Foundation fund. 
+Donors will receive access to their personalized ODDER site. Within each site, they will have access to financial reports for each allocation they are the stewardee for. The financial report will identify whether it's a Regents or Foundation fund. 
