@@ -28,11 +28,11 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2022 Updates
+## 2023 Updates
 ### Email Address Collection
-Given the transition to digital reports, stewardees will receive access instructions via email. As such, we are placing a special focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
+Given the transition to digital reports, stewardees will receive access instructions via email. As such, we continue to focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
 
-We obtained many new email addresses over the last two years. However, we still do not have emails on file for many recipients.
+We obtained many new email addresses over the last years. However, we still do not have emails on file for many recipients.
 
 Given that the majority of donors are receiving digital reports, we are not including mailing addresses in the preliminary listing. If a record you are reviewing has no email addresses on file, please ensure that their mailing address in Advance is correct as that is where their printed report will be sent.
 
@@ -43,7 +43,7 @@ We are continuing the endowment cleanup process. This year, we have two new view
 Please make an effort to identify a stewardee. If a specific fund is not to be stewarded, please let us know why by submitting a "make a change" form and following the proper procedures.
 
 ### Deceased Stewardees
-We have removed all deceased stewardees as report recipients. When we could find a spouse, they were added to the fund. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
+We have removed most deceased stewardees as report recipients. When we could find a spouse, they were added to the fund. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
 
 ---
 We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
