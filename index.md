@@ -28,7 +28,7 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2024 Updates
+## 2023 Updates
 ### Email Address Collection
 Given the transition to digital reports, stewardees will receive access instructions via email. As such, we continue to focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
 
@@ -38,7 +38,7 @@ Given that the majority of donors are receiving digital reports, we are not incl
 
 
 ### Endowment Cleanup
-We are continuing the endowment cleanup process. This year, we have two new views: Donors without an RM as well as Funds without a stewardee. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"}
+We are continuing the endowment cleanup process. You are encouraged to use the Donors without an RM as well as Funds without a stewardee. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in the Airtable [table of contents](https://airtable.com/shrVc51peJvbuc9WM){:target="\_blank"}
 
 Please make an effort to identify a stewardee. If a specific fund is not to be stewarded, please let us know why by submitting a "make a change" form and following the proper procedures.
 
