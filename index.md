@@ -28,7 +28,7 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2023 Updates
+## 2024 Updates
 ### Email Address Collection
 Given the transition to digital reports, stewardees will receive access instructions via email. As such, we continue to focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
 
