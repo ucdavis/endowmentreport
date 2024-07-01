@@ -6,9 +6,9 @@ has_children: true
 permalink: /docs/airtable
 ---
 # Airtable
-In previous years we have used Excel spreadsheets to provide you with all the data needing review. This year we have reduced the amount of data to only the most relevant pieces of information. We have also implemented a new system to replace the spreadsheets.
+We use Airtable to validate donor and fund data. 
 
-You should have received links to access the data. If so, [create an account][1]{:target="_blank"}. If you have not, please use this [form][2]{:target="_blank"} to request access.
+You should have received links to access the Preliminary Listing base. If so, [create an account][1]{:target="_blank"}. If you have not, please use this [form][2]{:target="_blank"} to request access.
 
 ## Tutorial Video
 <iframe src="https://player.vimeo.com/video/344856516" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
