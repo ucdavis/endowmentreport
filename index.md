@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 ---
 # Introduction
-Every year we report on the performance of endowment funds and their impact to the university. To ensure their accuracy we strive to ensure data accuracy and integrity. This year, we are taking additional cleanup steps to ensure this becomes an easier and quicker process in years to come.
+Every year we report on the performance of endowment funds and their impact to the university. The preliminary listing helps us in ensuring data accuracy and integrity.
 
 This site will guide you through all aspects of the endowment preliminary listing. 
 
