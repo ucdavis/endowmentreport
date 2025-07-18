@@ -36,6 +36,6 @@ There are two ways to navigate, you can scroll sideways (easier on a laptop with
 If you don’t wish to scroll, simply press `space`, and the record will expand into a card. The top left of the card contains buttons to navigate to the next or previous record, and the link to the change form is easily accessible. 
 
 [1]:	https://ucdavis.github.io/endowmentreport//docs/account
-[2]:	https://airtable.com/shrVc51peJvbuc9WM
+[2]:	https://airtable.com/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn
 [3]:	https://ucdavis.github.io/endowmentreport//docs/views
 [4]:	https://ucdavis.github.io/endowmentreport//docs/account
