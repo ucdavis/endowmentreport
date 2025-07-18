@@ -14,9 +14,9 @@ Please review these funds and determine whether a stewardee can be added. In man
 ## Access & Navigation
 The process for endowment clean up works the same way as with preliminary listing. You will access a separate Airtable view containing all the data.
 
-Links to these views can be found in the Airtable [table of contents](https://airtable.com/appsCGrs4v1jVJWld/shrdZr5COpQCTNwhm){:target="_blank"}
+Links to these views can be found in the Airtable [table of contents](https://airtable.com/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn){:target="_blank"}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appsCGrs4v1jVJWld/shrdZr5COpQCTNwhm?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Fields
 As this is a much simpler process, there are fewer fields to consider.
