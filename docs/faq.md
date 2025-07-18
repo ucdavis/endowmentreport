@@ -18,7 +18,7 @@ Please email [Daniella Hanson](mailto:dahanson@ucdavis.edu) with any questions y
 
 ### Are endowment reports only sent to donors once they complete their pledge?
 Donors will receive an endowment report even if the fund isn't fully endowed yet. 
-Funds in the _planned gift_ (PG) stage will not produce a financial report, however the donor will receive the brochure and letter. If the fund already has funds but is either _building to endowment_ (BTE) or has funds being _added to principal_ (ATP), the donor will receive a financial report showing the current value of the fund. 
+Funds in the _planned gift_ (PG) stage will not produce a financial report, however the donor will receive the brochure, a letter and a sample endowment report. If the fund already has funds but is either _building to endowment_ (BTE) or has funds being _added to principal_ (ATP), the donor will receive a financial report showing the current value of the fund. 
 
 ### Do I have to submit the same change for a donor multiple times if they are receiving multiple reports?
 If the donor is receiving reports for multiple funds, and you are requesting a change, you only need to do so once. 
