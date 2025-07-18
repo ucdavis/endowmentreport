@@ -13,14 +13,14 @@ The Airtable-based preliminary listing process remains in place. However, we hav
 
 ## Quick Start Guide
 ### Returning User
-1. Open the [table of contents](https://airtable.com/appsCGrs4v1jVJWld/shrdZr5COpQCTNwhm){:target="\_blank"} and select the view most relevant to you
+1. Open the [table of contents](https://airtable.com/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn){:target="\_blank"} and select the view most relevant to you
 2. When prompted, log in to your Airtable account (created last year) **using your UC Davis email.** You should now be able to access all views.
 3. If you forgot your password, you can [reset it here](https://airtable.com/forgot){:target="\_blank"}
 4. Review the data that falls under your purview, and request changes only where needed.
 
 ### New User
 1. Watch the [tutorial video](https://ucdavis.github.io/endowmentreport//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
-2. Open the [table of contents](https://airtable.com/appsCGrs4v1jVJWld/shrdZr5COpQCTNwhm){:target="\_blank"} and select the view most relevant to you
+2. Open the [table of contents](https://airtable.com/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn){:target="\_blank"} and select the view most relevant to you
 3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
 4. Review the data that falls under your purview, and request changes only where needed.
 
@@ -28,7 +28,7 @@ For more detailed information, please use the sidebar on the left to navigate th
 
 ---
 
-## 2024 Updates
+## 2025 Updates
 ### Email Address Collection
 Given the transition to digital reports, stewardees will receive access instructions via email. As such, we continue to focus in this year's preliminary listing on obtaining email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
 
@@ -38,12 +38,13 @@ Given that the majority of donors are receiving digital reports, we are not incl
 
 
 ### Endowment Cleanup
-We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in the Airtable [table of contents](https://airtable.com/appsCGrs4v1jVJWld/shrdZr5COpQCTNwhm){:target="\_blank"}
+We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in [this link](https://airtable.com/appGBlUU5tceomO7b/shrjiw82eCqmYv2pl
+0){:target="\_blank"} or navigating to 'No Stewardee - Grouped by school' in the Airtable [table of contents](https://airtable.com/appGBlUU5tceomO7b/shrgeidkDdsvlEuHn){:target="\_blank"}.
 
 Please make an effort to identify a stewardee. If a specific fund is not to be stewarded, please let us know why by submitting a "make a change" form and following the proper procedures.
 
 ### Deceased Stewardees
-We have removed most deceased stewardees as report recipients. When we could find a spouse, they were added to the fund. However, if someone else should be stewarded (or if the descendant is not in Advance), please [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
+We have removed most deceased stewardees as report recipients. When we could find a spouse, they were added to the fund. However, if someone else should be stewarded (or if the descendant is not in Advance), please review how to [fill out a change form](https://ucdavis.github.io/endowmentreport//docs/change){:target="\_blank"} in Airtable and ensure Advance is updated.
 
 ---
-We are happy to sit down with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
+We are happy to meet with you and walk you through the data and Airtable. If you would like to arrange a time, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
