@@ -38,8 +38,7 @@ Given that the majority of donors are receiving digital reports, we are not incl
 
 
 ### Endowment Cleanup
-We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in [this link](https://airtable.com/appGBlUU5tceomO7b/shrjiw82eCqmYv2pl
-0){:target="\_blank"} or navigating to 'No Stewardee - Grouped by school' in the Airtable [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shr6UYMXnAYRF4t70/tblMZ5vdAqVIBod1q){:target="\_blank"}.
+We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in [this link](https://airtable.com/appEZAO0a37RNvvAb/shr6UYMXnAYRF4t70/tblMZ5vdAqVIBod1q){:target="\_blank"} or navigating to 'No Stewardee - Grouped by school' in the Airtable [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"}.
 
 Please make an effort to identify a stewardee. If a specific fund is not to be stewarded, please let us know why by submitting a "make a change" form and following the proper procedures.
 
