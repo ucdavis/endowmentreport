@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 ---
 # Introduction
-Every year we report on the performance of endowment funds and their impact to the university. The preliminary listing helps us in ensuring data accuracy and integrity.
+Every year we report on the performance of endowment funds and their impact on the university. The preliminary listing helps us ensure data accuracy and integrity.
 
 This site will guide you through all aspects of the endowment preliminary listing. 
 
@@ -13,32 +13,32 @@ The Airtable-based preliminary listing process remains in place. However, we hav
 
 ## Quick Start Guide
 ### Returning User
-1. Open the [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"} and select the view most relevant to you
+1. Open the [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"} and select the view most relevant to you.
 2. When prompted, log in to your Airtable account (created last year) **using your UC Davis email.** You should now be able to access all views.
-3. If you forgot your password, you can [reset it here](https://airtable.com/forgot){:target="\_blank"}
+3. If you forgot your password, you can [reset it here](https://airtable.com/forgot){:target="\_blank"}.
 4. Review the data that falls under your purview, and request changes only where needed.
 
 ### New User
-1. Watch the [tutorial video](https://ucdavis.github.io/endowmentreport//docs/airtable){:target="\_blank"} to understand how to navigate Airtable & request changes
-2. Open the [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"} and select the view most relevant to you
+1. Watch the [tutorial video](https://ucdavis.github.io/endowmentreport//docs/airtable){:target="\_blank"} to understand how to navigate Airtable and request changes.
+2. Open the [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"} and select the view most relevant to you.
 3. When prompted, create an Airtable account **using your UC Davis email.** You should now be able to access all views.
 4. Review the data that falls under your purview, and request changes only where needed.
 
-For more detailed information, please use the sidebar on the left to navigate through the site. If you are on mobile, scroll up and tap menu. Should you have any questions, please reach out to [Daniella Hanson](mailto:dahanson@ucdavis.edu)
+For more detailed information, please use the sidebar on the left to navigate through the site. If you are on mobile, scroll up and tap the menu. Should you have any questions, please reach out to [Daniella Hanson](mailto:dahanson@ucdavis.edu)
 
 ---
 
 ## 2026 Updates
 ### Email Address Collection
-Given the transition to digital reports, stewardees receive their endowment report via email. As such, we continue to focus on obtaining current email addresses for stewardees. In the change forms on Airtable you will be prompted to add an email address for a stewardee if we do not have one on file. 
+Given the transition to digital reports, stewardees receive their endowment report via email. As such, we continue to focus on obtaining current email addresses for stewardees. In the change forms on Airtable, you will be prompted to add an email address for a stewardee if we do not have one on file. 
 
-We obtained many new email addresses over the last years. However, we still do not have emails on file for many recipients.
+We obtained many new email addresses over the previous years. However, we still do not have emails on file for many recipients.
 
-Given that the majority of donors are receiving digital reports, we are not including mailing addresses in the preliminary listing. If a record you are reviewing has no email addresses on file, please ensure that their mailing address in Advance is correct as that is where their printed report will be sent.
+Given that the majority of donors are receiving digital reports, we are not including mailing addresses in the preliminary listing. If a record you are reviewing has no email addresses on file, please ensure that their mailing address in Advance is correct, as that is where their printed report will be sent.
 
 
 ### Endowment Cleanup
-We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in [this link](https://airtable.com/appEZAO0a37RNvvAb/shr6UYMXnAYRF4t70){:target="\_blank"} or navigating to 'No Stewardee - Grouped by school' in the Airtable [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"}.
+We are continuing the endowment cleanup process. You are encouraged to use the <b>Donors without an RM</b> as well as <b>Funds without a stewardee</b> views. Funds without a stewardee will have –UNSTD as part of their identifier code. You will find a link to these funds in [this link](https://airtable.com/appEZAO0a37RNvvAb/shr6UYMXnAYRF4t70){:target="\_blank"} or by navigating to 'No Stewardee - Grouped by school' in the Airtable [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="\_blank"}.
 
 Please make an effort to identify a stewardee. If a specific fund is not to be stewarded, please let us know why by submitting a "make a change" form and following the proper procedures.
 
