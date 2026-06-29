@@ -34,6 +34,6 @@ Due to the COVID-19 pandemic and the transition to digital reports, we will not 
 However, we will provide you with all the needed information to be able to walk donors through their report.
 
 ---- 
-Should you have any questions with the form, please [send us an email][1], and we will be happy to help out.
+Should you have any questions with the form, please [send us an email][1] , and we will be happy to help out.
 
 [1]:	mailto:dahanson@ucdavis.edu
