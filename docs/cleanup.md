@@ -7,12 +7,12 @@ permalink: /docs/cleanup
 # Endowment Cleanup
 
 ## Overview
-This year we are continuing with the endowment cleanup process we started last year. We are focusing on a subset of Regents endowment funds and FFEs.
+We are continuing with the endowment cleanup process from each previous year. We are focusing on a subset of Regents endowment funds and FFEs.
 
 Please review these funds and determine whether a stewardee can be added. In many cases, it will be a previous stewardee’s next of kin.
 
 ## Access & Navigation
-The process for endowment clean up works the same way as with preliminary listing. You will access a separate Airtable view containing all the data.
+The process for endowment clean-up works the same way as with preliminary listing. You will access a separate Airtable view containing all the data.
 
 Links to these views can be found in the Airtable [table of contents](https://airtable.com/appEZAO0a37RNvvAb/shrkh0XsEeOaJxFEV){:target="_blank"}.
 
@@ -27,7 +27,7 @@ As this is a much simpler process, there are fewer fields to consider.
 - UCOP Allocation (`PG` denotes a planned gift)
 
 ## Adding a Stewardee
-To add a stewardee, simply click the URL to access a form. As with preliminary listing, the first few questions are reference fields. Please do not edit them.
+To add a stewardee, simply click the URL to access a form. As with the preliminary listing, the first few questions are reference fields. Please do not edit them.
 
 Simply select the action you would like to take and add details in the box below. Available actions are:
 - Add a stewardee
@@ -43,4 +43,4 @@ If the fund does not require stewardship, please explain why.
 
 ---
 
-If you have any questions, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu)
+If you have any questions, please email [Daniella Hanson](mailto:dahanson@ucdavis.edu).
